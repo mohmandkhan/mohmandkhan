@@ -1,5 +1,3 @@
-[![Header](https://majidkhanmohmand.com/images/face.png)](https://www.majidkhanmohmand.com)
-
 [![https://majidkhanmohmand.com/details/portfolio.html](https://img.shields.io/badge/-portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://majidkhanmohmand.com/details/portfolio.html)
 
 **Languages I have used**
